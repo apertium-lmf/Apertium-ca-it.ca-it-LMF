@@ -1,0 +1,16 @@
+Copying and Author information
+
+Resource name: Italian-Catalan LMF Apertium Bilingual dictionary
+Resource identifier: http://hdl.handle.net/10230/17105
+Licence: GPL
+
+Authors:
+
+() Antonio Toral
+
+() Mireia Ginestí Rosell
+
+() Francis M. Tyers
+
+() Universitat Pompeu Fabra. Institut Universitari de Lingüística Aplicada (IULA)
+
